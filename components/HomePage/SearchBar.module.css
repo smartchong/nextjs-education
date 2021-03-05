@@ -1,0 +1,36 @@
+.wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    box-sizing: border-box;
+    display: flex;
+    height: 1.36rem;
+    margin: auto;
+    background-color: linear-gradient(0deg, rgba(30, 11, 11, 0) 19%, rgba(0, 0, 0, 0.31));
+}
+
+.search {
+    flex: 1;
+    height: 0.64rem;
+    line-height: 0.64rem;
+    margin: 0.13rem 0 0 0.3rem;
+    padding-left: 0.78rem;
+    font-size: 0.26rem;
+    color: #6b6b6b;
+    background-color: rgba(255, 255, 255, 0.8);
+    background-image: url('../../public/img/ic_search.jpg');
+    background-repeat: no-repeat;
+    background-position: 0.34rem center;
+    background-size: 0.26rem 0.29rem;
+    border-radius: 0.12rem;
+}
+
+.user {
+    height: .58rem;
+    width: .58rem;
+    margin: .13rem .32rem;
+    background: url('../../public/img/ic_user.png') no-repeat;
+    background-size: contain;
+}

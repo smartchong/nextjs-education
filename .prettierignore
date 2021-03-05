@@ -1,0 +1,7 @@
+.babelrc.js
+.eslintrc.js
+.next
+next.config.js
+node_modules
+.history
+public

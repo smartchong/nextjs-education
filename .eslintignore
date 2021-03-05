@@ -1,0 +1,9 @@
+public
+.babelrc.js
+.eslintrc.js
+.history
+.next
+jsconfig.json 
+next.config.js 
+node_modules
+yarn-err.log
